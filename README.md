@@ -1,5 +1,6 @@
 ---
 title: Read Me
+permalink: /readme/
 ---
 
 # Read Me
