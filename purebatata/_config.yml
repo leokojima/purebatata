@@ -20,6 +20,11 @@
 
 title: Purê & Batata
 email: leokojima92@gmail.com
+defaults:
+  - scope:
+      path: "README.md"
+    values:
+      permalink: "README.html"
 description: >- # this means to ignore newlines until "baseurl:"
   Meet my beautiful cats, Purê (Smashed Potato) and Batata (Potato).
   In this website I will be testing anything new for me, tech wise
