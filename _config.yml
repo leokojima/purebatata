@@ -23,7 +23,7 @@ email: leokojima92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Meet my beautiful cats, Purê (Smashed Potato) and Batata (Potato).
   In this website I will be testing anything new for me, tech wise
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/purebatata" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: leonardo-kojima
 instagram_username: leonardo.kojima
